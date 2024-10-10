@@ -1,3 +1,0 @@
-[AutoProxy 0.2.9]
-! This chinalist only works with SwitchyOmega.
-||2ip.ru
