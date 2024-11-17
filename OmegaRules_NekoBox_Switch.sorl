@@ -3,6 +3,13 @@
 ; Date: 10.10.2024
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+*.phncdn.com
+*.meowpad.pw
+*.vtb.by
+*.ttvnw.net
+*.fontawesome.com
+*.6sc.co
+*.sentry.io
 *.hetzner.cloud
 *.hetzner.com
 *.cdninstagram.com
